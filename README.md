@@ -5,4 +5,5 @@
 
 ## Select rows in a table for only one specific year
 - Here, I asked chat GPT to show me an example for when I want to select all rows with dates in a particular year:
-- ![Screenshot 2023-05-28 at 2 44 05 PM](https://github.com/nickpalmer2012/sql-challenge/assets/128104435/e28fb109-f7c3-425f-bc72-c59fb752dddf)
+- ![Screenshot 2023-05-28 at 2 49 44 PM](https://github.com/nickpalmer2012/sql-challenge/assets/128104435/75a2bada-fb9b-4a17-834d-1ae84175d302)
+
