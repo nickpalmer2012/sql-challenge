@@ -18,4 +18,9 @@
 ## Select all rows in a column with either 'Sales' or 'Development'
 - ![Screenshot 2023-05-31 at 11 17 56 AM](https://github.com/nickpalmer2012/sql-challenge/assets/128104435/b73f7767-3228-419e-a1db-30ee1ce62319)
 
+## Return the frequency counts of all last names
+- ![Screenshot 2023-05-31 at 11 25 36 AM](https://github.com/nickpalmer2012/sql-challenge/assets/128104435/aa3a4de9-f2d9-4f53-8756-39134a07b312)
+### Order the count column in descending order:
+- ![Screenshot 2023-05-31 at 11 28 29 AM](https://github.com/nickpalmer2012/sql-challenge/assets/128104435/45e365c6-6499-45b5-ba4f-be4331d3032f)
+
 
